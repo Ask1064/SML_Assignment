@@ -3,10 +3,11 @@
 The Bank Statement Query Agent is a project designed to interact with a SQL database to answer questions about bank statements. Utilizing LangChain, SQLAlchemy, and SQLite, this agent processes and queries financial data to provide insightful responses.
 
 ## Features
- - SQL Database Interaction: Query a local SQLite database containing bank statement data.
- - Natural Language Processing: Use a language model to translate natural language questions into SQL queries.
- - Local Processing: All data processing and model inference are performed locally.
+ - **SQL Database Interaction**: Query a local SQLite database containing bank statement data.
+ - **Natural Language Processing**: Use a language model to translate natural language questions into SQL queries.
+ - **Local Processing**: All data processing and model inference are performed locally.
 
+![image](https://github.com/Ask1064/SML_Assignment/assets/126004769/efdcf590-c2cc-4582-8b0c-c660e33927d0)
 ## Setup Instructions
 ### Prerequisites
 Ensure you have the following installed on your system:
@@ -35,11 +36,11 @@ pip install -r requirements.txt
 ### Running the Application
 To run the Jupyter Notebook and start interacting with the SQL database, follow these steps:
 
-1. Launch Jupyter Notebook
+1. **Launch Jupyter Notebook**
 ```sh
 jupyter notebook
 ```
-2. Open the main notebook
+2. **Open the main notebook**
 
 In your web browser, navigate to the main_ntbk.ipynb notebook.
 Follow the instructions in the notebook to interact with the bank statement data.
