@@ -2,6 +2,8 @@
 ## Overview
 The Bank Statement Query Agent is a project designed to interact with a SQL database to answer questions about bank statements. Utilizing LangChain, SQLAlchemy, and SQLite, this agent processes and queries financial data to provide insightful responses.
 
+**Documentation Link**: https://docs.google.com/document/d/1SLe4rsFl5zR4Ok7ZkCxINZdvmlkeGeeC/edit?usp=sharing&ouid=114862051536555027894&rtpof=true&sd=true
+
 ## Features
  - **SQL Database Interaction**: Query a local SQLite database containing bank statement data.
  - **Natural Language Processing**: Use a language model to translate natural language questions into SQL queries.
